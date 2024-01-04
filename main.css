@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components{
+    /* .btn{
+        @apply px-8 py-4 text-black text-base rounded-3xl font-medium lg:text-lg xl:text-xl;
+    }
+    .btn.white{
+        @apply bg-white text-black;
+    }
+    .btn-black{
+        @apply bg-black text-white;
+    } */
+}
